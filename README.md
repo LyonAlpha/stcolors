@@ -20,7 +20,6 @@ StColors Supports Many Options, All Of Which Are Optional
 The Options Are:
 
 DarkRed,
-
 LightRed
 
 Orange
