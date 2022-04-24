@@ -19,50 +19,74 @@ StColors Supports Many Options, All Of Which Are Optional
 
 The Options Are:
 
-DarkRed,
+DarkRed
 <br />
 LightRed
 
 Orange
+<br />
 LightOrange
 
 Yellow
+<br />
 LightYellow
+<br />
 HazelYellow
 
 LightGreen
+<br />
 DarkGreen
+<br />
 Lime
+<br />
 LightLime
 
 SeaGreen
+<br />
 LightSeaGreen
+<br />
 Teal
+<br />
 Cyan
+<br />
 WhiteCyan
 
 DarkBlue
+<br />
 BasicBlue
+<br />
 LightBlue
 
 Purple
+<br />
 Violet
+<br />
 LightViolet
 
 DarkPink
+<br />
 Pink
+<br />
 LightPink
 
 UltraSilver
+<br />
 Silver
+<br />
 Gray
+<br />
 DarkGray
+<br />
 BlackGray
 
 // Base Colors
 
 Black
+<br />
 Red
+<br />
 Green
+<br />
 Blue
+<br />
 White
